@@ -1,3 +1,229 @@
-<h1 align="center">Hi 👋, I'm Paarth</h1>
-<h3 align="center">Building AI systems that actually work</h3>
+<!-- ============================================================
+     HOW TO ADD YOUR GIF:
+     1. Click edit on this file in GitHub
+     2. Drag your download.gif anywhere into the text box
+     3. GitHub uploads it and shows: ![download](https://github.com/user-attachments/assets/XXXX.gif)
+     4. Copy that full URL and replace YOUR_GIF_URL_HERE below
+     ============================================================ -->
 
+<!-- DARK HEADER BANNER — paste your gif URL below -->
+<div align="center">
+<img src="https://github.com/sharpeye08/sharpeye08/blob/main/download.gif?raw=true" width="100%" style="border-radius:10px"/>
+</div>
+
+<!-- DARK TITLE CARD -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=2500&pause=700&color=00FFB2&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=110&lines=PAARTH+GALA+%2F%2F+AI+ENGINEER+%26+BUILDER;%3E_+MCP+servers.+Multi-agent+systems.+Real+prod.;%3E_+Ship+first.+Theorize+later." alt="Typing SVG" />
+
+</div>
+
+<div align="center">
+
+![visitors](https://komarev.com/ghpvc/?username=paarths-collab&style=for-the-badge&color=00FFB2&label=VISITORS&labelColor=0D1117)
+![status](https://img.shields.io/badge/STATUS-BUILDING-00FFB2?style=for-the-badge&labelColor=0D1117)
+![open](https://img.shields.io/badge/OPEN_TO-WORK-00FFB2?style=for-the-badge&labelColor=0D1117)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D1117?style=flat-square&logo=linkedin&logoColor=00FFB2)](https://linkedin.com/in/paarth-gala-8105022a6)
+[![X](https://img.shields.io/badge/X-0D1117?style=flat-square&logo=x&logoColor=00FFB2)](https://x.com/@gala_paarth)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0D1117?style=flat-square&logo=vercel&logoColor=00FFB2)](https://paarths-portfolio-delta.vercel.app/)
+[![Email](https://img.shields.io/badge/EMAIL-0D1117?style=flat-square&logo=gmail&logoColor=00FFB2)](mailto:paarthgala1@gmail.com)
+
+</div>
+
+---
+
+```python
+# ─────────────────────────────────────────────
+#  paarth_gala.py
+# ─────────────────────────────────────────────
+
+class PaarthGala:
+    role     = "AI Engineer & Full Stack Developer"
+    degree   = "AI & Data Science Undergrad — Mumbai"
+    mantra   = "Ship first. Theorize later."
+
+    building = [
+        "MCP servers with institutional repo memory",
+        "Multi-agent systems (LangGraph + CrewAI)",
+        "RAG pipelines that don't hallucinate in prod",
+    ]
+
+    shipped  = [
+        "GitHub PR Context MCP   →  repo memory for AI assistants",
+        "Aletheia                →  AI misinformation detection",
+        "Bloomberg-Quant         →  AI fintech research platform",
+        "NSE Telegram Pipeline   →  99%+ uptime news automation",
+        "NarrativeSignal         →  unstructured data → insights",
+        "Resume Analyzer         →  semantic JD skill matching",
+    ]
+
+    research = "Fellow @ SimPPL · Mozilla-funded · MIT + NYU collab"
+
+# if you're reading source code on a github profile at this hour...
+# we should talk →  paarthgala1@gmail.com
+```
+
+---
+
+## PROJECTS
+
+| PROJECT | WHAT IT DOES |
+|---------|-------------|
+| **[GitHub PR Context MCP](https://github.com/paarths-collab/github-pr-context-mcp)** | Local RAG — gives Cursor & Claude memory of your repo's entire PR history via ChromaDB |
+| **[Aletheia](https://aletheia-mumbaihacks.vercel.app/)** | Deepfake detection · claim verification · AI-content scoring with explainable risk output |
+| **[Bloomberg-Quant](https://github.com/paarths-collab/Bloomberg)** | AI quant research — backtesting, paper trading, portfolio simulation, LLM investment insights |
+| **[NarrativeSignal](https://narrativesignal.vercel.app/)** | Converts unstructured data into structured narratives. Trend + anomaly detection at scale |
+| **[Resume Analyzer](https://resume-analyzer-two-beta.vercel.app/)** | Semantic skill matching vs JDs — extracts, scores, and suggests improvements |
+| **TripSync** | Campus ride-matching + student collaboration. FastAPI backend + mobile frontend |
+
+---
+
+## EXPERIENCE
+
+```
+NSE News-to-Telegram Automation    [Client]           Mar – Apr 2026
+  Real-time financial news pipeline → Telegram
+  NLP signal filtering · 99%+ uptime · prod-grade error handling
+
+CEO & Fellow Researcher            [SimPPL / Mozilla]  Jan – Jun 2025
+  Responsible AI research · MIT & NYU collaboration
+  Open-source tooling for transparent + ethical AI systems
+```
+
+---
+
+## STACK
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FFB2)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00FFB2)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FFB2)
+![Go](https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00FFB2)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00FFB2)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=00FFB2)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=00FFB2)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=00FFB2)
+![Keras](https://img.shields.io/badge/Keras-0D1117?style=for-the-badge&logo=keras&logoColor=00FFB2)
+![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=00FFB2)
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=00FFB2)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=00FFB2)
+![MLflow](https://img.shields.io/badge/MLflow-0D1117?style=for-the-badge&logo=numpy&logoColor=00FFB2)
+
+![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=00FFB2)
+![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logoColor=00FFB2)
+![CrewAI](https://img.shields.io/badge/CrewAI-0D1117?style=for-the-badge&logoColor=00FFB2)
+![MCP](https://img.shields.io/badge/MCP_Servers-0D1117?style=for-the-badge&logoColor=00FFB2)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-0D1117?style=for-the-badge&logoColor=00FFB2)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00FFB2)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=00FFB2)
+![NestJS](https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=00FFB2)
+![Kafka](https://img.shields.io/badge/Kafka-0D1117?style=for-the-badge&logo=apachekafka&logoColor=00FFB2)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0D1117?style=for-the-badge&logo=rabbitmq&logoColor=00FFB2)
+
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00FFB2)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=00FFB2)
+![Vue.js](https://img.shields.io/badge/Vue.js-0D1117?style=for-the-badge&logo=vue.js&logoColor=00FFB2)
+![Three.js](https://img.shields.io/badge/Three.js-0D1117?style=for-the-badge&logo=three.js&logoColor=00FFB2)
+![Vite](https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=00FFB2)
+![Streamlit](https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=00FFB2)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00FFB2)
+![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=00FFB2)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00FFB2)
+![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=00FFB2)
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=00FFB2)
+![Cassandra](https://img.shields.io/badge/Cassandra-0D1117?style=for-the-badge&logo=apache-cassandra&logoColor=00FFB2)
+![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=00FFB2)
+
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00FFB2)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=00FFB2)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=00FFB2)
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=00FFB2)
+![Render](https://img.shields.io/badge/Render-0D1117?style=for-the-badge&logo=render&logoColor=00FFB2)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FFB2)
+![Selenium](https://img.shields.io/badge/Selenium-0D1117?style=for-the-badge&logo=selenium&logoColor=00FFB2)
+
+</div>
+
+---
+
+## STATS
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=paarths-collab&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00FFB2&text_color=00FFB2&icon_color=00FFB2)
+
+![](https://streak-stats.demolab.com/?user=paarths-collab&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFB2&ring=00FFB2&fire=00FFB2&currStreakLabel=00FFB2&sideLabels=00FFB2&dates=00FFB2)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=paarths-collab&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB2&text_color=00FFB2&layout=compact&langs_count=8)
+
+</div>
+
+---
+
+## TROPHIES
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=paarths-collab&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## CONTRIBUTION GRAPH
+
+<div align="center">
+
+[![graph](https://github-readme-activity-graph.vercel.app/graph?username=paarths-collab&theme=tokyo-night&bg_color=0D1117&color=00FFB2&line=00FFB2&point=ffffff&area_color=00FFB2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## SNAKE
+
+<div align="center">
+
+![snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## TOP REPOS
+
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=paarths-collab&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+</div>
+
+---
+
+## DEV QUOTE
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+> built in the dark. shipped at 3am. repeat.
+```
+
+[![portfolio](https://img.shields.io/badge/→_PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=00FFB2)](https://paarths-portfolio-delta.vercel.app/)
+[![email](https://img.shields.io/badge/→_LET'S_BUILD-0D1117?style=for-the-badge&logo=gmail&logoColor=00FFB2)](mailto:paarthgala1@gmail.com)
+
+</div>

@@ -1,12 +1,4 @@
-<!-- ============================================================
-     HOW TO ADD YOUR GIF:
-     1. Click edit on this file in GitHub
-     2. Drag your download.gif anywhere into the text box
-     3. GitHub uploads it and shows: ![download](https://github.com/user-attachments/assets/XXXX.gif)
-     4. Copy that full URL and replace YOUR_GIF_URL_HERE below
-     ============================================================ -->
-
-<!-- DARK HEADER BANNER — paste your gif URL below -->
+<!-- DARK HEADER BANNER -->
 <div align="center">
 <img src="https://github.com/sharpeye08/sharpeye08/blob/main/download.gif?raw=true" width="100%" style="border-radius:10px"/>
 </div>
@@ -35,6 +27,9 @@
 
 ---
 
+<!-- CODING GIF + BIO SIDE BY SIDE -->
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="380"/>
+
 ```python
 # ─────────────────────────────────────────────
 #  paarth_gala.py
@@ -52,19 +47,20 @@ class PaarthGala:
     ]
 
     shipped  = [
-        "GitHub PR Context MCP   →  repo memory for AI assistants",
-        "Aletheia                →  AI misinformation detection",
-        "Bloomberg-Quant         →  AI fintech research platform",
-        "NSE Telegram Pipeline   →  99%+ uptime news automation",
-        "NarrativeSignal         →  unstructured data → insights",
-        "Resume Analyzer         →  semantic JD skill matching",
+        "GitHub PR Context MCP   →  repo memory for AI",
+        "Aletheia                →  misinformation detection",
+        "Bloomberg-Quant         →  AI fintech platform",
+        "NSE Telegram Pipeline   →  99%+ uptime",
+        "NarrativeSignal         →  unstructured → insights",
+        "Resume Analyzer         →  semantic JD matching",
     ]
 
-    research = "Fellow @ SimPPL · Mozilla-funded · MIT + NYU collab"
+    research = "Fellow @ SimPPL · Mozilla · MIT + NYU collab"
 
-# if you're reading source code on a github profile at this hour...
 # we should talk →  paarthgala1@gmail.com
 ```
+
+<br clear="right"/>
 
 ---
 
@@ -77,7 +73,7 @@ class PaarthGala:
 | **[Bloomberg-Quant](https://github.com/paarths-collab/Bloomberg)** | AI quant research — backtesting, paper trading, portfolio simulation, LLM investment insights |
 | **[NarrativeSignal](https://narrativesignal.vercel.app/)** | Converts unstructured data into structured narratives. Trend + anomaly detection at scale |
 | **[Resume Analyzer](https://resume-analyzer-two-beta.vercel.app/)** | Semantic skill matching vs JDs — extracts, scores, and suggests improvements |
-| **TripSync** | Campus ride-matching + student collaboration. FastAPI backend + mobile frontend |
+| **[TripSync](https://github.com/paarths-collab/TripSync)** | Campus ride-matching + student collaboration. FastAPI backend + mobile frontend |
 
 ---
 
@@ -157,21 +153,33 @@ CEO & Fellow Researcher            [SimPPL / Mozilla]  Jan – Jun 2025
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=paarths-collab&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00FFB2&text_color=00FFB2&icon_color=00FFB2)
-
-![](https://streak-stats.demolab.com/?user=paarths-collab&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFB2&ring=00FFB2&fire=00FFB2&currStreakLabel=00FFB2&sideLabels=00FFB2&dates=00FFB2)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=paarths-collab&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB2&text_color=00FFB2&layout=compact&langs_count=8)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=paarths-collab&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB2&text_color=00FFB2&icon_color=00FFB2&show_icons=true&rank_icon=github&cache_seconds=1800"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=paarths-collab&theme=default&hide_border=true&bg_color=ffffff&title_color=009973&text_color=333333&icon_color=009973&show_icons=true&rank_icon=github&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=paarths-collab&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB2&text_color=00FFB2&icon_color=00FFB2&show_icons=true&rank_icon=github&cache_seconds=1800" width="49%"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=paarths-collab&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB2&text_color=00FFB2&layout=donut&langs_count=8&cache_seconds=1800"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=paarths-collab&theme=default&hide_border=true&bg_color=ffffff&title_color=009973&text_color=333333&layout=donut&langs_count=8&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paarths-collab&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB2&text_color=00FFB2&layout=donut&langs_count=8&cache_seconds=1800" width="38%"/>
+</picture>
 
 </div>
 
----
-
-## TROPHIES
-
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=paarths-collab&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=paarths-collab&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFB2&ring=00FFB2&fire=00FFB2&currStreakLabel=00FFB2&sideLabels=00FFB2&dates=00FFB2"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=paarths-collab&theme=default&hide_border=true&stroke=009973&ring=009973&fire=009973&currStreakLabel=009973&sideLabels=333333&dates=333333"/>
+  <img src="https://streak-stats.demolab.com/?user=paarths-collab&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFB2&ring=00FFB2&fire=00FFB2&currStreakLabel=00FFB2&sideLabels=00FFB2&dates=00FFB2"/>
+</picture>
+
+</div>
+
+<!-- WAKATIME CODING TIME - add your wakatime username if you have it -->
+<div align="center">
+
+[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=paarths_collab&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB2&text_color=00FFB2&layout=compact)](https://wakatime.com/@paarths_collab)
 
 </div>
 
@@ -181,7 +189,11 @@ CEO & Fellow Researcher            [SimPPL / Mozilla]  Jan – Jun 2025
 
 <div align="center">
 
-[![graph](https://github-readme-activity-graph.vercel.app/graph?username=paarths-collab&theme=tokyo-night&bg_color=0D1117&color=00FFB2&line=00FFB2&point=ffffff&area_color=00FFB2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=paarths-collab&theme=tokyo-night&bg_color=0D1117&color=00FFB2&line=00FFB2&point=ffffff&area_color=00FFB2&area=true&hide_border=true&custom_title=Paarth%27s+Contribution+Graph"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=paarths-collab&theme=minimal&bg_color=ffffff&color=009973&line=009973&point=009973&area_color=009973&area=true&hide_border=true&custom_title=Paarth%27s+Contribution+Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paarths-collab&theme=tokyo-night&bg_color=0D1117&color=00FFB2&line=00FFB2&point=ffffff&area_color=00FFB2&area=true&hide_border=true&custom_title=Paarth%27s+Contribution+Graph"/>
+</picture>
 
 </div>
 
@@ -191,7 +203,13 @@ CEO & Fellow Researcher            [SimPPL / Mozilla]  Jan – Jun 2025
 
 <div align="center">
 
-![snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3000&pause=1000&color=00FFB2&center=true&vCenter=true&width=400&height=20&lines=every+green+square+is+a+decision+to+ship+something" alt="caption"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 </div>
 
@@ -201,7 +219,34 @@ CEO & Fellow Researcher            [SimPPL / Mozilla]  Jan – Jun 2025
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=paarths-collab&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<table>
+<tr>
+<td align="center" width="33%">
+
+[![killport](https://github-readme-stats.vercel.app/api/pin/?username=paarths-collab&repo=killport&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB2&text_color=00FFB2&icon_color=00FFB2)](https://github.com/paarths-collab/killport)
+
+`⚡ Lightning-Fast Docker-Native Port Killer`<br/>
+`with AI-Agent JSON Mode`
+
+</td>
+<td align="center" width="33%">
+
+[![quant-brain-mcp](https://github-readme-stats.vercel.app/api/pin/?username=paarths-collab&repo=quant-brain-mcp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB2&text_color=00FFB2&icon_color=00FFB2)](https://github.com/paarths-collab/quant-brain-mcp)
+
+`📈 MCP Server for Stock Analysis,`<br/>
+`Backtesting & Portfolio Intelligence`
+
+</td>
+<td align="center" width="33%">
+
+[![github-pr-context-mcp](https://github-readme-stats.vercel.app/api/pin/?username=paarths-collab&repo=github-pr-context-mcp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB2&text_color=00FFB2&icon_color=00FFB2)](https://github.com/paarths-collab/github-pr-context-mcp)
+
+`🧠 AI-Powered Repository Memory`<br/>
+`for Cursor & Claude`
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -217,7 +262,10 @@ CEO & Fellow Researcher            [SimPPL / Mozilla]  Jan – Jun 2025
 
 ---
 
+<!-- FOOTER ANIMATION -->
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3500&pause=1000&color=00FFB2&center=true&vCenter=true&width=500&height=30&lines=thanks+for+stopping+by+%3E_;&repeat=false" alt="footer"/>
 
 ```
 > built in the dark. shipped at 3am. repeat.
@@ -225,5 +273,7 @@ CEO & Fellow Researcher            [SimPPL / Mozilla]  Jan – Jun 2025
 
 [![portfolio](https://img.shields.io/badge/→_PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=00FFB2)](https://paarths-portfolio-delta.vercel.app/)
 [![email](https://img.shields.io/badge/→_LET'S_BUILD-0D1117?style=for-the-badge&logo=gmail&logoColor=00FFB2)](mailto:paarthgala1@gmail.com)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 
 </div>

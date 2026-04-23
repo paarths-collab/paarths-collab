@@ -176,10 +176,29 @@ CEO & Fellow Researcher            [SimPPL / Mozilla]  Jan – Jun 2025
 
 </div>
 
-<!-- WAKATIME CODING TIME - add your wakatime username if you have it -->
 <div align="center">
 
-[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=paarths_collab&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB2&text_color=00FFB2&layout=compact)](https://wakatime.com/@paarths_collab)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paarths-collab&theme=tokyonight"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paarths-collab&theme=github"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paarths-collab&theme=tokyonight" width="100%"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paarths-collab&theme=tokyonight"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paarths-collab&theme=github"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paarths-collab&theme=tokyonight" width="32%"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paarths-collab&theme=tokyonight"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paarths-collab&theme=github"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paarths-collab&theme=tokyonight" width="32%"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=paarths-collab&theme=tokyonight&utcOffset=5.5"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=paarths-collab&theme=github&utcOffset=5.5"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=paarths-collab&theme=tokyonight&utcOffset=5.5" width="32%"/>
+</picture>
 
 </div>
 
@@ -217,32 +236,46 @@ CEO & Fellow Researcher            [SimPPL / Mozilla]  Jan – Jun 2025
 
 ## TOP REPOS
 
+<!-- ──────────────────────────────────────────────────────────
+     IMPORTANT: These cards auto-fetch description, stars, and
+     language from GitHub. To update what shows here, go to
+     each repo → click ⚙️ next to "About" → edit Description.
+
+     Paste these descriptions if not already set:
+     killport          → Lightning-Fast Docker-Native Port Killer with AI-Agent JSON Mode
+     quant-brain-mcp   → MCP Server for Stock Analysis, Backtesting, and Portfolio Intelligence
+     github-pr-context-mcp → AI-Powered Repository Memory for Cursor & Claude
+     ────────────────────────────────────────────────────────── -->
+
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="33%">
 
-[![killport](https://github-readme-stats.vercel.app/api/pin/?username=paarths-collab&repo=killport&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB2&text_color=00FFB2&icon_color=00FFB2)](https://github.com/paarths-collab/killport)
-
-`⚡ Lightning-Fast Docker-Native Port Killer`<br/>
-`with AI-Agent JSON Mode`
-
-</td>
-<td align="center" width="33%">
-
-[![quant-brain-mcp](https://github-readme-stats.vercel.app/api/pin/?username=paarths-collab&repo=quant-brain-mcp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB2&text_color=00FFB2&icon_color=00FFB2)](https://github.com/paarths-collab/quant-brain-mcp)
-
-`📈 MCP Server for Stock Analysis,`<br/>
-`Backtesting & Portfolio Intelligence`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=paarths-collab&repo=killport&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB2&text_color=00FFB2&icon_color=00FFB2&description_lines_count=2"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=paarths-collab&repo=killport&theme=default&hide_border=true&bg_color=ffffff&title_color=009973&text_color=333333&icon_color=009973&description_lines_count=2"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=paarths-collab&repo=killport&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB2&text_color=00FFB2&icon_color=00FFB2&description_lines_count=2" alt="killport"/>
+</picture>
 
 </td>
 <td align="center" width="33%">
 
-[![github-pr-context-mcp](https://github-readme-stats.vercel.app/api/pin/?username=paarths-collab&repo=github-pr-context-mcp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB2&text_color=00FFB2&icon_color=00FFB2)](https://github.com/paarths-collab/github-pr-context-mcp)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=paarths-collab&repo=quant-brain-mcp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB2&text_color=00FFB2&icon_color=00FFB2&description_lines_count=2"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=paarths-collab&repo=quant-brain-mcp&theme=default&hide_border=true&bg_color=ffffff&title_color=009973&text_color=333333&icon_color=009973&description_lines_count=2"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=paarths-collab&repo=quant-brain-mcp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB2&text_color=00FFB2&icon_color=00FFB2&description_lines_count=2" alt="quant-brain-mcp"/>
+</picture>
 
-`🧠 AI-Powered Repository Memory`<br/>
-`for Cursor & Claude`
+</td>
+<td align="center" width="33%">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=paarths-collab&repo=github-pr-context-mcp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB2&text_color=00FFB2&icon_color=00FFB2&description_lines_count=2"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=paarths-collab&repo=github-pr-context-mcp&theme=default&hide_border=true&bg_color=ffffff&title_color=009973&text_color=333333&icon_color=009973&description_lines_count=2"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=paarths-collab&repo=github-pr-context-mcp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB2&text_color=00FFB2&icon_color=00FFB2&description_lines_count=2" alt="github-pr-context-mcp"/>
+</picture>
 
 </td>
 </tr>

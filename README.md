@@ -1,7 +1,5 @@
 <!-- DARK HEADER BANNER -->
-<div align="center">
-<img src="https://github.com/sharpeye08/sharpeye08/blob/main/download.gif?raw=true" width="100%" style="border-radius:10px"/>
-</div>
+
 
 <!-- DARK TITLE CARD -->
 <div align="center">

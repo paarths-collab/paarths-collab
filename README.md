@@ -55,7 +55,9 @@ class PaarthGala:
 
 ---
 
-## Main Mission
+<a id="main-mission"></a>
+
+## 🧭 Main Mission
 
 I build **AI agent infrastructure** - MCP servers, repo-memory systems, VPS/Docker deployments, backend automation, model-routing systems, integrations, workflows, and developer tools that make agents useful in real products.
 
@@ -71,7 +73,49 @@ current_focus/
 
 ---
 
-## Quest Map
+## 🧪 Agent Lab Console
+
+<details open>
+<summary><b>🚀 Open current build mode</b></summary>
+
+```txt
+mode: shipping useful AI agents
+status: building in public
+runtime: caffeine + curiosity + real user workflows
+priority: make agents remember context, use tools, and survive production
+```
+
+</details>
+
+<details>
+<summary><b>🧠 What I can nerd out about</b></summary>
+
+```txt
+MCP servers        → tools, memory, permissions
+AI agents          → Max, Claire, Orchestrator, repo-aware coding agents
+backend systems    → auth, queues, Docker, VPS, diagnostics
+product infra      → model routing, telemetry, latency, cost controls
+devtools           → CLIs, JSON output, workflows for humans + agents
+```
+
+</details>
+
+<details>
+<summary><b>🤝 Good collab quests</b></summary>
+
+```txt
+bring me:
+├── an agent idea that needs real tools
+├── an MCP server that should exist
+├── a workflow that is too manual
+└── an AI product that needs to become production-grade
+```
+
+</details>
+
+---
+
+## 🗺️ Quest Map
 
 ```txt
 PAARTH_GALA/
@@ -87,7 +131,7 @@ PAARTH_GALA/
 │   │   ├── Max MCP
 │   │   ├── Claire Agent
 │   │   ├── Claire MCP
-│   │   └── Orch workflows
+│   │   └── Orchestrator workflows
 │   │
 │   ├── Shipyard Model Router
 │   │   ├── agent telemetry
@@ -117,10 +161,10 @@ PAARTH_GALA/
 
 ---
 
-## Boss Fights
+## ⚔️ Boss Fights
 
 <details open>
-<summary><b>Boss 01: Stateless AI Coding Agents</b></summary>
+<summary><b>🧠 Boss 01: Stateless AI Coding Agents</b></summary>
 
 <br/>
 
@@ -135,7 +179,7 @@ AI agents become more useful when they understand how a team actually ships code
 </details>
 
 <details>
-<summary><b>Boss 02: Expensive AI Workflows</b></summary>
+<summary><b>💸 Boss 02: Expensive AI Workflows</b></summary>
 
 <br/>
 
@@ -150,14 +194,14 @@ The future of AI products is not just better prompts - it is routing, telemetry,
 </details>
 
 <details>
-<summary><b>Boss 03: Long-Running Agent Jobs</b></summary>
+<summary><b>⏳ Boss 03: Long-Running Agent Jobs</b></summary>
 
 <br/>
 
 AI workflows often run longer than serverless limits. If they block the request, the user sees a timeout.
 
 **My attack:**
-At Digital Crew, I worked across Max Agent, Max MCP, Claire Agent, Claire MCP, and Orch workflows to connect AI agents with real product integrations.
+At Digital Crew, I worked across Max Agent, Max MCP, Claire Agent, Claire MCP, and Orchestrator workflows to connect AI agents with real product integrations.
 
 **Why it matters:**
 Production AI needs orchestration, not just model calls.
@@ -165,7 +209,7 @@ Production AI needs orchestration, not just model calls.
 </details>
 
 <details>
-<summary><b>Boss 04: AI Product Latency</b></summary>
+<summary><b>⚡ Boss 04: AI Product Latency</b></summary>
 
 <br/>
 
@@ -180,7 +224,7 @@ Good AI products must feel fast, not just smart.
 </details>
 
 <details>
-<summary><b>Boss 05: Fragile Production Integrations</b></summary>
+<summary><b>🛡️ Boss 05: Fragile Production Integrations</b></summary>
 
 <br/>
 
@@ -196,14 +240,16 @@ Production systems fail in boring ways. Good engineers handle the boring failure
 
 ---
 
-## Featured Builds
+<a id="featured-builds"></a>
+
+## 🛠️ Featured Builds
 
 <details open>
-<summary><b>Digital Crew Agent Systems</b> - Max, Claire, MCP, and Orch workflows</summary>
+<summary><b>🤖 Digital Crew Agent Systems</b> - Max, Claire, MCP, and Orchestrator workflows</summary>
 
 <br/>
 
-Founding AI Engineer work across Digital Crew, focused on production AI agent infrastructure for Max, Claire, MCP servers, Orch workflows, integrations, and deployed backend automation.
+Founding AI Engineer work across Digital Crew, focused on production AI agent infrastructure for Max, Claire, MCP servers, Orchestrator workflows, integrations, and deployed backend automation.
 
 ```txt
 product workflow
@@ -211,7 +257,7 @@ product workflow
 → Max MCP
 → Claire Agent
 → Claire MCP
-→ Orch workflow
+→ Orchestrator workflow
 → integrations
 → deployed automation
 ```
@@ -222,7 +268,7 @@ product workflow
 * Max MCP server work for structured agent tools and integrations
 * Claire Agent workflows for AI-assisted business operations
 * Claire MCP integrations for agent-accessible product capabilities
-* Orch workflow wiring across backend services, agent tools, and external integrations
+* Orchestrator workflow wiring across backend services, agent tools, and external integrations
 * VPS and Docker-based deployment work for reliable long-running agent services
 * Backend diagnostics, auth, and failure handling for production AI workflows
 
@@ -231,7 +277,7 @@ product workflow
 </details>
 
 <details>
-<summary><b>Shipyard AI Model Router</b> - model routing + telemetry architecture</summary>
+<summary><b>🚢 Shipyard AI Model Router</b> - model routing + telemetry architecture</summary>
 
 <br/>
 
@@ -253,7 +299,7 @@ Route each AI task to the cheapest model that can still complete it reliably.
 </details>
 
 <details>
-<summary><b>GitHub PR Context MCP</b> - repo memory for AI coding agents</summary>
+<summary><b>🧩 GitHub PR Context MCP</b> - repo memory for AI coding agents</summary>
 
 <br/>
 
@@ -273,7 +319,7 @@ This MCP server fetches repository PR history, comments, review threads, and tea
 </details>
 
 <details>
-<summary><b>hstack</b> - portable skill catalog for AI coding agents</summary>
+<summary><b>📦 hstack</b> - portable skill catalog for AI coding agents</summary>
 
 <br/>
 
@@ -293,7 +339,7 @@ A skill catalog that helps AI coding agents deploy self-hosted Hermes agents and
 </details>
 
 <details>
-<summary><b>Quant Brain MCP</b> - finance intelligence over MCP</summary>
+<summary><b>📈 Quant Brain MCP</b> - finance intelligence over MCP</summary>
 
 <br/>
 
@@ -313,7 +359,7 @@ MCP server for stock analysis, backtesting, portfolio optimisation, sector intel
 </details>
 
 <details>
-<summary><b>OpenSRE Contributions</b> - AI SRE reliability hardening</summary>
+<summary><b>🧯 OpenSRE Contributions</b> - AI SRE reliability hardening</summary>
 
 <br/>
 
@@ -329,7 +375,7 @@ Contributed to AI SRE tooling by hardening Slack and Discord delivery paths.
 </details>
 
 <details>
-<summary><b>killport</b> - Docker-native port killer for humans and agents</summary>
+<summary><b>🔌 killport</b> - Docker-native port killer for humans and agents</summary>
 
 <br/>
 
@@ -344,14 +390,16 @@ Agents waste tokens and make mistakes when CLI output is messy. Tools should ret
 
 ---
 
-## Experience Log
+<a id="experience-log"></a>
+
+## 📜 Experience Log
 
 <details open>
-<summary><b>Digital Crew Technologies</b> - Founding AI Engineer</summary>
+<summary><b>⚙️ Digital Crew Technologies</b> - Founding AI Engineer</summary>
 
 <br/>
 
-Founding AI Engineer building production AI agent infrastructure across Digital Crew, Max, Claire, MCP systems, Orch workflows, backend integrations, and deployed automation.
+Founding AI Engineer building production AI agent infrastructure across Digital Crew, Max, Claire, MCP systems, Orchestrator workflows, backend integrations, and deployed automation.
 
 **Period:** May 2026 - Present
 
@@ -359,14 +407,14 @@ Founding AI Engineer building production AI agent infrastructure across Digital 
 
 * Worked on Max Agent, Max MCP, Claire Agent, and Claire MCP systems for production AI workflows.
 * Built and connected MCP-style tools, backend APIs, and integrations so agents could perform useful product actions instead of staying as chat-only flows.
-* Worked on Orch workflow wiring across agents, services, integrations, persistence, and diagnostics.
+* Worked on Orchestrator workflow wiring across agents, services, integrations, persistence, and diagnostics.
 * Contributed VPS and Docker deployment work for AI agent services that need reliable runtime behavior beyond simple request/response execution.
 * Built production diagnostics, auth paths, fallback handling, and backend automation for agent workflows across Max and Claire.
 
 </details>
 
 <details>
-<summary><b>Rowan Cognitive / Shipyard</b> - AI Infrastructure Intern</summary>
+<summary><b>🚢 Rowan Cognitive / Shipyard</b> - AI Infrastructure Intern</summary>
 
 <br/>
 
@@ -385,7 +433,7 @@ Worked on AI infrastructure for Shipyard, focusing on model routing, telemetry, 
 </details>
 
 <details>
-<summary><b>Open Source</b> - AI Infrastructure & Developer Tools Contributor</summary>
+<summary><b>🌍 Open Source</b> - AI Infrastructure & Developer Tools Contributor</summary>
 
 <br/>
 
@@ -401,7 +449,7 @@ Contributed across Digital Crew Technologies, Tracer Cloud / OpenSRE, aden-hive,
 </details>
 
 <details>
-<summary><b>NSE News-to-Telegram Automation</b> - Client Project</summary>
+<summary><b>📬 NSE News-to-Telegram Automation</b> - Client Project</summary>
 
 <br/>
 
@@ -419,7 +467,7 @@ Built an automated financial news intelligence pipeline for real-time NSE market
 
 ---
 
-## Character Stats
+## 📊 Character Stats
 
 | Attribute            |          Level | Evidence                                   |
 | -------------------- | -------------: | ------------------------------------------ |
@@ -428,11 +476,11 @@ Built an automated financial news intelligence pipeline for real-time NSE market
 | DevTools             | ████████░░ 80% | hstack, killport, PR Context MCP           |
 | Production Debugging | ███████░░░ 70% | Auth, diagnostics, fallbacks, deployments  |
 | Open Source          | ███████░░░ 70% | OpenSRE, aden-hive, Lamatic                |
-| Product Thinking     | ████████░░ 80% | Max, Claire, Orch, integrations, agent UX  |
+| Product Thinking     | ████████░░ 80% | Max, Claire, Orchestrator, integrations, agent UX |
 
 ---
 
-## Inventory
+## 🎒 Inventory
 
 | Item              | Power                                              |
 | ----------------- | -------------------------------------------------- |
@@ -448,18 +496,60 @@ Built an automated financial news intelligence pipeline for real-time NSE market
 
 ---
 
-## Open Source Footprint
+## 🌍 Open Source Footprint
 
 ```txt
 organizations/
-├── Digital Crew Technologies → Max, Claire, Orch, MCP, integrations
+├── Digital Crew Technologies → Max, Claire, Orchestrator, MCP, integrations
 ├── Tracer Cloud / OpenSRE    → AI SRE reliability hardening
 ├── aden-hive                 → developer onboarding docs
 ├── Lamatic                   → AgentKit automation contribution
 └── paarths-collab            → MCP servers, agent tools, devtools
 ```
 
-## Follow My Build Log
+---
+
+## 🧾 Activity Overview
+
+<div align="center">
+
+[![Digital Crew Technologies](https://img.shields.io/badge/@Digital--Crew--Technologies-ffffff?style=for-the-badge&labelColor=ffffff&color=d8dee4)](https://github.com/Digital-Crew-Technologies)
+[![Tracer Cloud](https://img.shields.io/badge/@Tracer--Cloud-ffffff?style=for-the-badge&labelColor=ffffff&color=d8dee4)](https://github.com/Tracer-Cloud)
+[![aden-hive](https://img.shields.io/badge/@aden--hive-ffffff?style=for-the-badge&labelColor=ffffff&color=d8dee4)](https://github.com/aden-hive)
+[![More](https://img.shields.io/badge/More-51%2B_repositories-ffffff?style=for-the-badge&labelColor=ffffff&color=d8dee4)](https://github.com/paarths-collab?tab=overview)
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Contributed to
+
+* **Digital-Crew-Technologies / max-agent systems**
+* **paarths-collab / hstack**
+* **Digital-Crew-Technologies / max-mcp systems**
+* **51+ other repositories**
+
+</td>
+<td width="50%" valign="top">
+
+### Contribution mix
+
+| Type | Share | Signal |
+| --- | ---: | --- |
+| Commits | 73% | ███████░░░ |
+| Pull requests | 27% | ███░░░░░░░ |
+| Code review | active | reviews, fixes, delivery notes |
+| Issues | active | debugging, triage, product feedback |
+
+</td>
+</tr>
+</table>
+
+<a id="follow-my-build-log"></a>
+
+## 📡 Follow My Build Log
 
 I post short notes on:
 
@@ -481,7 +571,7 @@ open source      → contributions and experiments
 
 ---
 
-## Star Quest
+## ⭐ Star Quest
 
 If any of these tools made you curious, help me level them up:
 
@@ -500,10 +590,10 @@ If any of these tools made you curious, help me level them up:
 
 ---
 
-## Secret File
+## 🔐 Secret File
 
 <details>
-<summary>why I build agents</summary>
+<summary>🧬 why I build agents</summary>
 
 ```txt
 I don't think the future is just chatbots.
@@ -528,7 +618,9 @@ If this made you curious, follow my build log.
 
 ---
 
-## Collab Portal
+<a id="collab-portal"></a>
+
+## 🤝 Collab Portal
 
 I'm open to:
 
@@ -557,7 +649,7 @@ I think we can collaborate on ______.
 
 ---
 
-## Stack
+## 🧰 Stack
 
 <div align="center">
 
@@ -615,7 +707,7 @@ I think we can collaborate on ______.
 
 ---
 
-## Stats
+## 📈 Stats
 
 <div align="center">
 
@@ -655,7 +747,7 @@ I think we can collaborate on ______.
 
 ---
 
-## Contribution Graph
+## 📉 Contribution Graph
 
 <div align="center">
 
@@ -685,7 +777,7 @@ I think we can collaborate on ______.
 
 ---
 
-## Top Repos
+## 🚀 Top Repos
 
 <div align="center">
 

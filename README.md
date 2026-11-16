@@ -8,9 +8,7 @@ I build things that remove the annoying parts of your day, from dev tools like h
 - 🚢 Previously **AI Infra Intern** @ Shipyard: model routing, telemetry, latency
 - 🌍 Open source: OpenSRE, aden-hive
 - 🧠 Building agents that remember context, use real tools and survive production
-- 📫 Open to collabs on MCP servers, agent infra and devtools
-
-<br clear="right"/>
+- 📫 Open to helping you build solutions that solve real problems<br clear="right"/>
 
 <div align="center">
 

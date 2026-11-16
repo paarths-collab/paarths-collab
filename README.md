@@ -1,12 +1,8 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="developer room animation"/>
-</p>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="50%" alt="developer room animation"/>
 
-## Hi, I'm Paarth 👋
+### Hi, I'm Paarth 👋
 
 I build things that remove the annoying parts of your day, from dev tools like hstack to apps like Handoff.
-
-[LinkedIn](https://linkedin.com/in/paarth-gala-8105022a6) · [X](https://x.com/gala_paarth) · [Portfolio](https://paarths-portfolio-delta.vercel.app/) · [Email](mailto:paarthgala1@gmail.com)
 
 - 🤖 **Founding AI Engineer** @ Digital Crew: Max & Claire agents, MCP servers, Orchestrator workflows
 - 🚢 Previously **AI Infra Intern** @ Shipyard: model routing, telemetry, latency
@@ -14,6 +10,16 @@ I build things that remove the annoying parts of your day, from dev tools like h
 - 🧠 Building agents that remember context, use real tools and survive production
 - 📫 Open to collabs on MCP servers, agent infra and devtools
 
+<br clear="right"/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzAwOTk3MyIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4%3D)](https://linkedin.com/in/paarth-gala-8105022a6)
+[![X](https://img.shields.io/badge/X-ffffff?style=flat-square&logo=x&logoColor=009973)](https://x.com/gala_paarth)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=vercel&logoColor=009973)](https://paarths-portfolio-delta.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-ffffff?style=flat-square&logo=gmail&logoColor=009973)](mailto:paarthgala1@gmail.com)
+
+</div>
 
 ---
 

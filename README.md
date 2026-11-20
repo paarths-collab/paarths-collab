@@ -29,7 +29,7 @@ I build things that remove the annoying parts of your day, from dev tools like h
 | --- | --- |
 | 🆕 [**Handoff**](https://github.com/paarths-collab/handoff) | Move your Arc Spaces, pinned tabs and folders to Chrome, Brave, Edge, Firefox, Safari and more. Runs locally on macOS and Windows: no account, no upload. |
 | [**hstack**](https://github.com/paarths-collab/hstack) | Skill catalog for AI coding agents to deploy self-hosted Hermes agents and wire up 70+ integrations |
-| [**github-pr-context-mcp**](https://github.com/paarths-collab/github-pr-context-mcp) | Repo memory for AI coding agents from PR history and review threads |
+| [**github-pr-context-mcp**](https://github.com/paarths-collab/pitfall) | Repo memory for AI coding agents from PR history and review threads |
 | [**NarrativeSignal**](https://github.com/paarths-collab/NarrativeSignal) | Turns Reddit discussions into explainable narrative and amplification intelligence |
 
 ---
